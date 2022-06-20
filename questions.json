@@ -7,7 +7,7 @@
       {"text": "It is a way to say good bay"},
       {"text": "It is a way to say good bay", "corret": true}
     ]
-  },
+  }
     {
     "question": "What does barking up the wrong tree mean?",
     "options":[
@@ -16,7 +16,7 @@
       {"text": "It is a way to say good bay"},
       {"text": "It is a way to say good bay", "corret": true}
     ]
-  },
+  }
     {
     "question": "What does barking up the wrong tree mean?",
     "options":[
